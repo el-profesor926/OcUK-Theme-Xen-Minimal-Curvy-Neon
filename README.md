@@ -1,5 +1,5 @@
 <h1 align="center">
-	Xen Minimal Curvy Neon
+	Xen Minimal Curvy Neon OcUK Theme
 </h1>
 
 <h3 align="center">
