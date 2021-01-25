@@ -14,7 +14,15 @@
 	<img src="Screenshot.png" alt="Screenshot of the theme" width="550">
 </p>
 
-June 17, 2019
+## Description
+
+Donate to support updates
+
+If you use and like feel free to buy me a coffee, paypal: rail.monkey@ntlworld.com
+
+<b>Author</b> - Sean Mayes<br />
+<b>Date Created</b> - June 17, 2019<br/>
+<b>Applies To</b> - overclockers
 
 
 ## Installation
