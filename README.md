@@ -1,9 +1,9 @@
 <h1 align="center">
-	A minimal dark OcUK Theme Designed by Wiiija
+	Xen Minimal Curvy Neon
 </h1>
 
 <h3 align="center">
-	A simple theme with dark colours
+	Designed by Wiiija
 </h3>
 
 <p align="center">
@@ -13,6 +13,8 @@
 <p align="center">
 	<img src="Screenshot.png" alt="Screenshot of the theme" width="550">
 </p>
+
+June 17, 2019
 
 
 ## Installation
