@@ -2,6 +2,14 @@
 	Xen Minimal Curvy Neon OcUK Theme
 </h1>
 
+
+<p align="center">
+	<img alt="MIT Licence" src="https://img.shields.io/pypi/l/ansicolortags.svg"></a>
+	<a href="https://github.com/el-profesor926/OcUK-Theme-Xen-Minimal-Curvy-Neon/raw/main/Xen-Minimal-Neon.user.css"><img
+		alt="npm version"
+		src="https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg"></a>
+</p>
+
 <p align="center">
 	<strong>
 		<a href="https://www.overclockers.co.uk/forums/">Forum Website</a>
@@ -41,4 +49,4 @@ To use these themes you will need the Stylus/Stylish browser extension for your 
 <a href="http://sobolev.us/stylish/">Safari</a>
 
 ## Installation
-To use, install the Stylus or Stylish extension for your chosen browser. Click the icon on your toolbar, click "Manage" on the popup, on the screen that appears click "Write new style", paste the code from default.css and save, done.
+Once you have the Stylus browser extention installed > click the "Install directly with Stylus" icon at the top of this page.
