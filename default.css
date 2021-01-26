@@ -2089,4 +2089,13 @@ a.callToAction {
 a.PopupItemLink:hover {
     color: #5dd727 !important;
 }
+.navTabs .navLink, 
+.navTabs .SplitCtrl,
+#headerMover #headerProxy,
+#header,
+.PageNav,
+.breadBoxTop, 
+.breadBoxBottom {
+    background-color: transparent;
+}
 }
