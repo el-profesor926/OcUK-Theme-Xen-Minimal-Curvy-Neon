@@ -1,3 +1,11 @@
+/* ==UserStyle==
+@name           OcUK-Theme-Xen-Minimal-Curvy-Neon
+@namespace      https://github.com/el-profesor926/OcUK-Theme-Xen-Minimal-Curvy-Neon
+@version        1.0.0
+@description    A neon dark theme for ocuk forums
+@author         Sean Myers
+==/UserStyle== */
+
 @-moz-document url-prefix("https://www.overclockers.co.uk/forums/") {
 /*[adjust width below to preferred size]*/
 html,
