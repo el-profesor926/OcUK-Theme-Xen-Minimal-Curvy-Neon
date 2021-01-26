@@ -7,7 +7,7 @@
 	<img alt="MIT Licence" src="https://img.shields.io/pypi/l/ansicolortags.svg"></a>
 	<a href="https://github.com/el-profesor926/OcUK-Theme-Xen-Minimal-Curvy-Neon/raw/main/Xen-Minimal-Neon.user.css"><img
 		alt="npm version"
-		src="https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg"></a>
+		src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
 <p align="center">
