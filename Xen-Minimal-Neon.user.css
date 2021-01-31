@@ -518,8 +518,7 @@ textarea.textCtrl:focus {
     color: #2de310 !important;
 }
 #QuickSearch {
-    top: -30px;
-    right: 225px;
+    display:none;
 }
 #QuickSearch,
 .formPopup {
