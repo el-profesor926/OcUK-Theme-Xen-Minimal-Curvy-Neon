@@ -12,6 +12,10 @@
 		<img alt="npm version" src="https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg"></a>
 </p>
 
+<h3 align="center">
+	Designed by Wiiija
+</h3>
+
 <p align="center">
 	<strong>
 		<a href="https://www.overclockers.co.uk/forums/">Forum Website</a>
